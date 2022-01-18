@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/TextFlow/static/css/main.28f3ba4b.chunk.css",
+    "main.js": "/TextFlow/static/js/main.2108ad2d.chunk.js",
+    "main.js.map": "/TextFlow/static/js/main.2108ad2d.chunk.js.map",
+    "runtime~main.js": "/TextFlow/static/js/runtime~main.69d9ee1d.js",
+    "runtime~main.js.map": "/TextFlow/static/js/runtime~main.69d9ee1d.js.map",
+    "static/js/2.624f555d.chunk.js": "/TextFlow/static/js/2.624f555d.chunk.js",
+    "static/js/2.624f555d.chunk.js.map": "/TextFlow/static/js/2.624f555d.chunk.js.map",
+    "static/js/3.bdaef63a.chunk.js": "/TextFlow/static/js/3.bdaef63a.chunk.js",
+    "static/js/3.bdaef63a.chunk.js.map": "/TextFlow/static/js/3.bdaef63a.chunk.js.map",
+    "index.html": "/TextFlow/index.html",
+    "precache-manifest.60d5c4baf0bdf49045b5ccf752e48f2c.js": "/TextFlow/precache-manifest.60d5c4baf0bdf49045b5ccf752e48f2c.js",
+    "service-worker.js": "/TextFlow/service-worker.js",
+    "static/css/main.28f3ba4b.chunk.css.map": "/TextFlow/static/css/main.28f3ba4b.chunk.css.map",
+    "static/media/logo.svg": "/TextFlow/static/media/logo.06e73328.svg"
+  }
+}
