@@ -31,7 +31,7 @@ function App() {
       setMode('dark')
       document.body.style.backgroundColor = '#1f1e41'
       showAlert("Dark mode has been enabled", "success")
-      document.title = 'TextUtils - Dark Mode'
+      document.title = 'TextFlow - Dark Mode'
 
       // setInterval(() => {
       //   document.title = 'Install TextUtils Now'
@@ -41,13 +41,13 @@ function App() {
       setMode('light')
       document.body.style.backgroundColor = 'white'
       showAlert("Light mode has been enabled", "success")
-      document.title = 'TextUtils - Light Mode'
+      document.title = 'TextFlow - Light Mode'
     }
   }
   return (
     <>
       {/* <BrowserRouter> */}
-         <Navbar title="TextUtils" mode={mode} toggleMode={toggleMode} />
+         <Navbar title="TextFlow" mode={mode} toggleMode={toggleMode} />
          <Alert alert={alert} />
          <div className="container my-3">
          {/* <Routes> */}
